@@ -1,0 +1,6 @@
+{
+  "name": "CodeForge",
+  "description": "Gemini API 기반 로컬 개발 환경(Java, Python, C++, IntelliJ IDEA) 자동 탐지 및 코드 생성·실행 워크벤치",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
